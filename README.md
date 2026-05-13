@@ -103,10 +103,10 @@ Having an issue or want to request a feature? Open an issue on GitHub or contact
 ## Contact
 
 - Email: [nagarjunareddy2997@icloud.com](mailto:nagarjunareddy2997@icloud.com)
-- GitHub Issues: [Open an issue](https://github.com/Nagarjuna2997/CloudVault-File-Storage/issues)
+
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License. 
 
 # CloudVault-File-Storage
